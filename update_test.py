@@ -19,6 +19,7 @@ if this and that:
 
 print("test")
 print("test2")
+print("test3")
 
 
 class Foo(object):
