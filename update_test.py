@@ -19,6 +19,9 @@ if this and that:
 
 print("test")
 print("test2")
+print("test3")
+print("test4")
+print("test5")
 
 
 class Foo(object):
